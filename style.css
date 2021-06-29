@@ -1,4 +1,5 @@
 body{
+    width: 90%;
     background-color: #a8d8ea;
     color: #aa96da;
     text-align: center;
@@ -34,3 +35,6 @@ a{
     padding-bottom: 20px;
 }
 
+audio {
+    margin: 0 auto;
+}
