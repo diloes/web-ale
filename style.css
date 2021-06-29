@@ -1,0 +1,36 @@
+body{
+    background-color: #a8d8ea;
+    color: #aa96da;
+    text-align: center;
+    font-family: 'Akaya Kanadaka', cursive; 
+}
+
+h1{
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+h3{
+    font-size: 35px;
+}
+
+.img-one{
+    height: 200px;
+}
+
+p{
+    font-size: 40px;
+}
+
+.altavoz{
+    display: grid;
+    justify-content: center;
+}
+
+a{
+    margin-top: 16px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
